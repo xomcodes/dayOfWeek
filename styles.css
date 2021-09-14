@@ -1,0 +1,26 @@
+.container {
+  text-align: center;
+  background-color: aqua;
+  margin: auto;
+  width: 40%;
+  padding-bottom: 5px;
+  padding-top: 10px;
+  border-radius: 20px;
+}
+.first-div {
+  background-color: blue;
+  color: white;
+  margin: auto;
+  width: 30%;
+  border-radius: 10px;
+}
+
+#weekday {
+  font-size: 80px;
+  color: orangered;
+}
+
+#display {
+  font-size: 35px;
+  color: blue;
+}
